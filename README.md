@@ -2,28 +2,23 @@
 <p align="center">
 
 **Sobre mim**  
-Sou desenvolvedor front-end em início de carreira, com foco em criar interfaces modernas, responsivas e centradas na experiência do usuário. Tenho conhecimento em HTML, CSS, JavaScript e frameworks como React, e estou sempre em busca de aprender novas tecnologias e boas práticas de desenvolvimento.  Gosto de transformar ideias em soluções visuais funcionais e estou animado para crescer profissionalmente, contribuir em projetos reais e colaborar com times de tecnologia.
+Sou desenvolvedor front-end júnior vidrado em transformar boas ideias em experiências digitais ágeis, escalável e responsiva preso por otimizar e entregar valor, junto ao código.
+ Atualmente trabalho com HTML, CSS, Javascript, React.js, Next.js, TypeScript, Tailwind e Git. Sempre com foco e alta performance, sempre bem resolvido e com entregas alinhadas com a proposta do negócio. Gosto de trabalhar em ambientes dinâmicos, com times colaborativos e organizados.
+ Na minha visão quero crescer dentro do ecossistema tech, contribuindo com ideias e projetos que valorizam boas práticas, inovação e design funcional quero estar sempre somando e não apenas sendo mais um na equipe.
+ Se você está em busca de alguém com essas características com sede de evolução e com atitude, vamos conversa?
 
-<!--🐱CAT-->
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-</p>
-
-
-### 🧑‍💻 **Minhas Habilidades e Tecnologias**  
 Aqui estão algumas das ferramentas que utilizo para construir soluções inovadoras:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
- 
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
-  
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" style="margin: 5px;">
- <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="50" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="60" style="margin: px;">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="60" style="margin: 15px;">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="50" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="50" style="margin: 5px;">
+   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="50" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="50" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="50" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50" style="margin: 5px;">
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+
